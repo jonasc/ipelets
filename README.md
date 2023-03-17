@@ -1,4 +1,4 @@
-# Ipelets -- small scripts for the editor Ipe [1]
+# Ipelets -- small scripts for the editor [Ipe](https://ipe.otfried.org/)
 
 The available scripts are currently:
 
@@ -14,5 +14,3 @@ The available scripts are currently:
     Deleted layers are created and the order of all layers is restored.
     The views which had a deleted layer as their active layer will have the new layer made active.
     It is restored on which views the layer was active.
-
-[1] https://ipe.otfried.org/
